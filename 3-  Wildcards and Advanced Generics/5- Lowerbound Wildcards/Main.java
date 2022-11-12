@@ -36,4 +36,4 @@ public class Main{
 
 /* PECS --> Producer extends Consumer Super
 If the generic is producing something for us to take, USE EXTENDS
-When the generic is consuming something(When we add something), USE SUPER
+When the generic is consuming something(When we add something), USE SUPER*/
